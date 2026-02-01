@@ -1,0 +1,12 @@
+import { useState } from 'react';
+import Counter from './component/Counter';
+function App() {
+  return (
+    <div>
+      <Counter />
+
+    </div>
+  );
+}
+
+export default App;
